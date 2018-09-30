@@ -1,9 +1,9 @@
 package com.wind.git;
 
-public class Happy {
+public class Good {
 
 	public static void main(String[] args) {
-		System.out.println("Happy test....");
+		// TODO Auto-generated method stub
 
 	}
 
